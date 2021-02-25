@@ -1,5 +1,5 @@
 # auto2048
-Copy of 2048 but auto
+Copy of 2048 but auto<br/>
 This is a project for school, it doesn't need to be perfect.<br/>
 This project is far from being finished and optimised. (The functions to move the tiles are horrible)<br/>
 The IA part is not done yet but will be soon (not a true IA, but something more inteligent than a random algorithm)<br/>
